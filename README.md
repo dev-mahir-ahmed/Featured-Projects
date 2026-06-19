@@ -75,13 +75,13 @@ React • Vite • Capacitor • Tailwind CSS • Local Storage • Android Stud
 
 Amar Hisab is a simple, beautiful, and user-friendly Expense Tracker App where users can view monthly income, expenses, remaining balance, and category-wise spending at a glance. The app works completely offline.
 
-### 🌐 Live Website
+### 📱 Play Store Link
 
-https://amar-hisab-app.vercel.app/
+[https://amar-hisab-app.vercel.app/](https://play.google.com/store/apps/details?id=com.mahirhisab.app)
 
 ### ⚡ Tech Stack
 
-React • Vite • Capacitor • Tailwind CSS • Local Storage • Android Studio
+React • Vite • Capacitor • Tailwind CSS • Local Storage • Firebase • Android Studio
 ---
 
 # 🖼️ Mahir Resize
