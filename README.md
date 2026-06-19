@@ -82,6 +82,7 @@ https://play.google.com/store/apps/details?id=com.mahirhisab.app
 ### ⚡ Tech Stack
 
 React • Vite • Capacitor • Tailwind CSS • Local Storage • Firebase • Android Studio
+
 ---
 
 # 🖼️ Mahir Resize
