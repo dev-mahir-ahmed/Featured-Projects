@@ -77,7 +77,7 @@ Amar Hisab is a simple, beautiful, and user-friendly Expense Tracker App where u
 
 ### 📱 Play Store Link
 
-[https://amar-hisab-app.vercel.app/](https://play.google.com/store/apps/details?id=com.mahirhisab.app)
+https://play.google.com/store/apps/details?id=com.mahirhisab.app
 
 ### ⚡ Tech Stack
 
